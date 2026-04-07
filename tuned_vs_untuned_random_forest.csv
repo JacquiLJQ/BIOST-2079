@@ -1,0 +1,3 @@
+version,test_auc
+Untuned Random Forest,0.6646491337840804
+Tuned Random Forest,0.6721914384069757
